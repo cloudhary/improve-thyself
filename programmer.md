@@ -1,8 +1,6 @@
-[How To Be a Programmer: A Short,Comprehensive, and Personal Summary](https://www.doc.ic.ac.uk/~susan/475/HowToBeAProgrammer.pdf)
+[How To Be a Programmer: A Short, Comprehensive, and Personal Summary](https://www.doc.ic.ac.uk/~susan/475/HowToBeAProgrammer.pdf)
 
 by Robert L. Read, published December 16, 2002
-
-The excellent books The Pragmatic Programmer[8], Code Complete[3], Rapid Development[2], and Extreme Programming Explained[4] Paul Graham[6] and Eric Raymond[7]
 
 If there is a single key to debugging is to use the divide and conquer technique on the mystery.
 
@@ -34,147 +32,45 @@ Don’t forget that the most important skills for a programmer are not the techn
 
 A project often depends on software produced by organizations that it does not control. There are great risks associated with third party software that must be recognized by everyone involved. Never, ever, rest any hopes on vapor. Vapor is any alleged software that has been promised but is not yet available. This is the surest way to go out of business. It is unwise to be skeptical of a software company’s promise to release a certain product with a certain feature at a certain date; it is far wiser to ignore it completely and forget you ever heard it. Never let it be written down in any documents used by your company. If third party software is not vapor, it is still risky, but at least it is a risk that can be tackled. If you are considering using third party software you should devote energy early to evaluating it. People might not like to hear that it will take two weeks or two months to evaluate each of three products for suitability. But it has to be done as early as possible. The cost of integrating cannot be accurately estimated without a proper evaluation.
 
-Disagreement is a great opportunity to make a good decision, but it should be
-handled delicately. Hopefully you feel that you have expressed your thoughts
-adequately and been listened to before the decision is made. In that case there
-is nothing more to say, and you should decide whether you will stand behind
-the decision even thought you disagree with it. If you can support this decision
-even though you disagree, say so. This shows how valuable you are because you
-are independent and not a yes-man, but respectful of the decision and a team
-player
+Disagreement is a great opportunity to make a good decision, but it should be handled delicately. Hopefully you feel that you have expressed your thoughts adequately and been listened to before the decision is made. In that case there is nothing more to say, and you should decide whether you will stand behind the decision even thought you disagree with it. If you can support this decision even though you disagree, say so. This shows how valuable you are because you are independent and not a yes-man, but respectful of the decision and a team player
 
-Usually, this is not a problem. In some stressful circumstances and with
-some personality types this can lead to things being taken personally. For
-instance, some very good programmers lack the confidence needed to challenge
-a decision even when they have good reason to believe it to be wrong. In the
-worst of circumstances the decision maker is insecure and takes it as a personal
-challenge to her authority. It is best to remember in such circumstances that
-people react with the reptilian part of their brains. You should present your
-argument in private, and try to show how new knowledge changes the basis on
-which the decision was made. Whether the decision is reversed or not, you must remember that probably
-no one will ever have a right to say ”I told you so!” since the other decision will
-not have been fully explored.
+Usually, this is not a problem. In some stressful circumstances and with some personality types this can lead to things being taken personally. For instance, some very good programmers lack the confidence needed to challenge a decision even when they have good reason to believe it to be wrong. In the worst of circumstances the decision maker is insecure and takes it as a personal challenge to her authority. It is best to remember in such circumstances that people react with the reptilian part of their brains. You should present your argument in private, and try to show how new knowledge changes the basis on which the decision was made. Whether the decision is reversed or not, you must remember that probably no one will ever have a right to say ”I told you so!” since the other decision will not have been fully explored.
 
-6.3 How to Decide If Software Is Too Immature
-The use of software other people wrote is one of the most effective ways to build
-quickly a solid system. It should not be discouraged, but the risks associated
-with it must be examined. One of the biggest risks is the period of bugginess
-and near inoperability that is often associated with software before it matures
-through usage into a usable product. When considering integrating with or
-becoming dependent in some way on a software system, whether created in
-house or by a third party, it is very important to consider if it is really mature
-enough to be used. Here are some questions you should ask yourself about it:
-• Is it vapor? (Promises are very immature).
-• Is there an accessible body of lore about the software?
-• Are you the first user?
-• Is there a strong incentive for continuation?
-• Has it had a maintenance effort?
-• Will it survive defection of the current maintainers?
-• Is there a seasoned alternative at least half as good?
-• Is it known to your tribe or company?
-• Is it desirable to your tribe or company?
-• Can you hire people to work on it even if it is bad?
+6.3 How to Decide If Software Is Too Immature The use of software other people wrote is one of the most effective ways to build quickly a solid system. It should not be discouraged, but the risks associated with it must be examined. One of the biggest risks is the period of bugginess and near inoperability that is often associated with software before it matures through usage into a usable product. When considering integrating with or becoming dependent in some way on a software system, whether created in house or by a third party, it is very important to consider if it is really mature enough to be used. Here are some questions you should ask yourself about it: • Is it vapor? (Promises are very immature). • Is there an accessible body of lore about the software? • Are you the first user? • Is there a strong incentive for continuation? • Has it had a maintenance effort? • Will it survive defection of the current maintainers? • Is there a seasoned alternative at least half as good? • Is it known to your tribe or company? • Is it desirable to your tribe or company? • Can you hire people to work on it even if it is bad?
 
-Assume responsibility in excess of your authority. Play the role that you desire. Express appreciation for people’s contribution to the success of the larger
-organization, as well as things as that help you personally.
-If you want to become a team leader, instigate the formation of consensus.
-If you want to become a manager, take responsibility for the schedule. You can
-usually do this comfortably while working with a leader or a manager, since this
-frees her up to take greater responsibility. If that is too much to try, do it a
-little at a time.
-Evaluate yourself. If you want to become a better programmer, ask someone
-you admire how you can become like her. You can also ask your boss, who will
-know less but have a greater impact on your career.
-Plan ways to learn new skills, but the trivial technical kind like learning a
-new software system and the hard social kind like writing well, by integrating
-them into your work.
+Assume responsibility in excess of your authority. Play the role that you desire. Express appreciation for people’s contribution to the success of the larger organization, as well as things as that help you personally. If you want to become a team leader, instigate the formation of consensus. If you want to become a manager, take responsibility for the schedule. You can usually do this comfortably while working with a leader or a manager, since this frees her up to take greater responsibility. If that is too much to try, do it a little at a time. Evaluate yourself. If you want to become a better programmer, ask someone you admire how you can become like her. You can also ask your boss, who will know less but have a greater impact on your career. Plan ways to learn new skills, but the trivial technical kind like learning a new software system and the hard social kind like writing well, by integrating them into your work.
 
-The three most import considerations for the potential computer science
-technique are:
-• Is it well encapsulated so that the risk to other systems is low and the
-overall increase in complexity and maintenance cost is low?
-• Is the benefit startling (for example, a factor of two in a mature system
-or a factor of ten in a new system)?
-• Will you be able to test and evaluate it effectively?
+The three most import considerations for the potential computer science technique are: • Is it well encapsulated so that the risk to other systems is low and the overall increase in complexity and maintenance cost is low? • Is the benefit startling (for example, a factor of two in a mature system or a factor of ten in a new system)? • Will you be able to test and evaluate it effectively?
 
-It is your duty to understand the user, and to help your boss understand the
-user. Because the user is not as intimately involved in the creation of your
-product as you are, she behaves a little differently:
-• The user generally makes short pronouncements.
-• The user has her own job; she will mainly think of small improvements in
-your product, not big improvements.
-• The user can’t have a vision across all the users of your product.
-It is your duty to give them what they really want, not what they say the
-want. It is however, better to propose it to them and get them to agree that
-your proposal is what they really want before you begin, but they may not have
-the vision to do this. Your confidence in your own ideas about this should vary.
-You must guard against both arrogance and false modesty in terms of knowing
-what the customer really wants. Programmers are trained to design and create.
-Market researchers are trained to figure out what people want. These two kinds
-of persons, or two modes of thought in the same person, working harmoniously
-together give the best chance of formulating the correct vision.
-The more time you spend with users the better you will be able to understand
-or guess what will really be successful. You should try to test your ideas against
-them as much as you can. You should eat and drink with them if you can.
+It is your duty to understand the user, and to help your boss understand the user. Because the user is not as intimately involved in the creation of your product as you are, she behaves a little differently: • The user generally makes short pronouncements. • The user has her own job; she will mainly think of small improvements in your product, not big improvements. • The user can’t have a vision across all the users of your product. It is your duty to give them what they really want, not what they say the want. It is however, better to propose it to them and get them to agree that your proposal is what they really want before you begin, but they may not have the vision to do this. Your confidence in your own ideas about this should vary. You must guard against both arrogance and false modesty in terms of knowing what the customer really wants. Programmers are trained to design and create. Market researchers are trained to figure out what people want. These two kinds of persons, or two modes of thought in the same person, working harmoniously together give the best chance of formulating the correct vision. The more time you spend with users the better you will be able to understand or guess what will really be successful. You should try to test your ideas against them as much as you can. You should eat and drink with them if you can.
 
-You should allow people to fail occasionally and plan for some failure in
-your schedule. If there is never any failure, there can be no sense of adventure.
-If there are not occasional failures, you are not trying hard enough.
+You should allow people to fail occasionally and plan for some failure in your schedule. If there is never any failure, there can be no sense of adventure. If there are not occasional failures, you are not trying hard enough.
 
-Make it clear to the strong members of your team that you think they are
-strong by saying so in public. Praise should be public and criticism private
+Make it clear to the strong members of your team that you think they are strong by saying so in public. Praise should be public and criticism private
 
-. You should do what you are best at, but try to
-find a way to stretch yourself not by taking on more work but by exercising a new
-skill. Leadership and communication skills are more important than technical
-skills. If you are very strong, take on the hardest or riskiest task, and do it as
-early as possible in the project to decrease risk as much as possible.
+. You should do what you are best at, but try to find a way to stretch yourself not by taking on more work but by exercising a new skill. Leadership and communication skills are more important than technical skills. If you are very strong, take on the hardest or riskiest task, and do it as early as possible in the project to decrease risk as much as possible.
 
-To develop team spirit, corny stuff like logoized clothing and parties are good
-but not as good as personal respect. If everyone respects everyone else, nobody
-will want to let anybody down. Team spirit will be created when people make
-sacrifices for the team and they think in terms of the good of the team rather
-than their own personal good. As a leader, you can’t ask for more than you
-give yourself
+To develop team spirit, corny stuff like logoized clothing and parties are good but not as good as personal respect. If everyone respects everyone else, nobody will want to let anybody down. Team spirit will be created when people make sacrifices for the team and they think in terms of the good of the team rather than their own personal good. As a leader, you can’t ask for more than you give yourself
 
-Praise often rather than lavishly. Especially praise those who disagree with
-you when they are praiseworthy. Praise in public and criticize in private; with
-one exception: sometimes growth or the correction of a fault can’t be praised
-without drawing embarrassing attention to the original fault, so that growth
-should be praised in private.
+Praise often rather than lavishly. Especially praise those who disagree with you when they are praiseworthy. Praise in public and criticize in private; with one exception: sometimes growth or the correction of a fault can’t be praised without drawing embarrassing attention to the original fault, so that growth should be praised in private.
 
-To gather support for a project, create and communicate a vision that demonstrates real value to the organization as a whole. Attempt to let others share
-in your vision creation. This gives them both a reason to support you and
-getting the benefit of their ideas. Individually recruit key supporters for your
-project. Wherever possible, show, don’t tell. If possible construct a prototype
-or a mockup to demonstrate your ideas. A prototype is always powerful but in
-software it is far superior to any written description.
+To gather support for a project, create and communicate a vision that demonstrates real value to the organization as a whole. Attempt to let others share in your vision creation. This gives them both a reason to support you and getting the benefit of their ideas. Individually recruit key supporters for your project. Wherever possible, show, don’t tell. If possible construct a prototype or a mockup to demonstrate your ideas. A prototype is always powerful but in software it is far superior to any written description.
 
-To communicate well, you have to recognize how hard it is. It is a skill unto
-itself. It is made harder by the fact that the persons with whom you have to
-communicate are flawed.
+To communicate well, you have to recognize how hard it is. It is a skill unto itself. It is made harder by the fact that the persons with whom you have to communicate are flawed.
 
-The programmer is a social animal whose survival depends on communication with her team. The advanced programmer is a social animal whose
-satisfaction depends on communication with people outside her team.
-The programmer brings order out of chaos. One interesting way to do this
-is to initiate a proposal of some kind outside the team. This can be done in a
-strawman or em white-paper format or just verbally. This leadership has the
-tremendous advantage of setting the terms of the debate. It also exposes one
-to criticism, and worse, rejection and neglect. The advanced programmer must
-be prepared to accept this, because she has a unique power and therefore a
-unique responsibility. Entrepreneurs who are not programmers need programmers to provide leadership in some ways. Programmers are the part of the
-bridge between ideas and reality that rests on reality.
+The programmer is a social animal whose survival depends on communication with her team. The advanced programmer is a social animal whose satisfaction depends on communication with people outside her team. The programmer brings order out of chaos. One interesting way to do this is to initiate a proposal of some kind outside the team. This can be done in a strawman or em white-paper format or just verbally. This leadership has the tremendous advantage of setting the terms of the debate. It also exposes one to criticism, and worse, rejection and neglect. The advanced programmer must be prepared to accept this, because she has a unique power and therefore a unique responsibility. Entrepreneurs who are not programmers need programmers to provide leadership in some ways. Programmers are the part of the bridge between ideas and reality that rests on reality.
 
-It would be as rude and unsuccessful
-to try to convince them these myths are false as to try to disillusion a devoutly
-religious person of their beliefs. For that reason, you should recognize these
-myths for what they are:
-• More documentation is always better. (They want it, but they don’t want
-you to spend any time on it.)
-• Programmers can be equated. (Programmers vary by order of magnitude.)
-• Resources can be added to a project to speed it. (The cost of communication with the new persons is more taxing than helpful.)
-• It is possible to estimate software development reliably. (It is not even
-theoretically possible.)
-Each of these myths reinforces the manager’s idea that they have some actual
-control over what is going on. The truth is that managers facilitate if they are
-good, and impede if they are bad.
+It would be as rude and unsuccessful to try to convince them these myths are false as to try to disillusion a devoutly religious person of their beliefs. For that reason, you should recognize these myths for what they are: • More documentation is always better. (They want it, but they don’t want you to spend any time on it.) • Programmers can be equated. (Programmers vary by order of magnitude.) • Resources can be added to a project to speed it. (The cost of communication with the new persons is more taxing than helpful.) • It is possible to estimate software development reliably. (It is not even theoretically possible.) Each of these myths reinforces the manager’s idea that they have some actual control over what is going on. The truth is that managers facilitate if they are good, and impede if they are bad.
+
+There are often times of great organizational chaos. These are unsettling to everyone, but perhaps a little less unsettling to the programmer whose personal self-esteem is founded in her capacity rather than in her position. Organizational chaos is a great opportunity for programmers to exercise their magic power. I’ve saved this for last because it is a deep tribal secret. If you are not a programmer, please stop reading now. Engineers have the power to create and sustain. Non-engineers can order people around but in a typical software company can create nothing on their own and only have the power that engineers grant them. They can create and sustain nothing without engineers. This power is proof against almost all the problems associated with organizational mayhem. When you have it you should ignore the chaos completely and carry on as if nothing is happening. You may of course get fired, but if that happens you can easily get a new job because of the magic power. More commonly, some stressed-out person who does not have the magic power will come into your cube and tell you to do something stupid. It is best to smile and nod until they go away and then carry on doing what you know is best for the company.
+
+This course of action is the best for you personally, and the best for the company you work for. If you are a leader, tell your people to do the same thing and tell them to ignore what anybody other than yourself tells them, including your own superiors.
+
+
+Good books to read: 
+- The Pragmatic Programmer (Hunt, Andrew, Thomas, David, and Cunningham, Ward. The Pragmatic Programmer: From Journeyman to Master)
+- Code Complete (McConnell, Steve. 1993. Code Complete. Redmond, Wash.: Microsoft Press)
+- Rapid Development (McConnell, Steve. 1996. Rapid Development: Taming Wild Software Schedules. Redmond, Wash.: Microsoft Press)
+- Extreme Programming Explained (Beck, Kent. Extreme Programming Explained: Embrace Change)
+- Paul Graham (Graham, Paul. 2002. Articles on his website: http://www.paulgraham.com/articles.html. All of them, but especially Beating the Averages)
+- Eric Raymond (Raymond, Eric Steven. 2002. How to Become a Hacker: http://www.tuxedo.org/ esr/faqs/hacker-howto.html)
